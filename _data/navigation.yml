@@ -3,4 +3,9 @@
 - title: Portfolio
   url: /portfolio/
   excerpt: "Projects I've worked on"
-  image: 
+  image:
+
+- title: About
+  url: /about/
+  excerpt: "Read a little more about me"
+  image:
