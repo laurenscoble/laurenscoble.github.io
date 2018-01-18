@@ -3,11 +3,14 @@ layout: article
 title: With great power comes great responsibility
 date: 2017-7-26 10:00:00 +1000
 categories: blog
+excerpt: A little insight into my dive to the world of Data Science.
 image:
   teaser: chess_teaser.jpg
   feature: chess_feature.jpg
 ---
-On Monday I started a Data Science Immersive course at General Assembly in Melbourne. Before starting, I thought I should brush up on my programming skills because I hadn't really touched any programming languages in a while and even then I was generally doing front end web development.
+On Monday I started a Data Science Immersive course at General Assembly in Melbourne. Up until now my career has been quite varied, but I decided to take a risk and return to the things that originally made me happy: mathematics, programming and story telling. Luckily, there's now a career that combines all three.
+
+Before starting, I thought I should brush up on my programming skills because I hadn't really touched any programming languages in a while and even then I was generally doing front end web development.
 
 I completed the MIT Introduction to Python Programming just before I started this course, so I felt that I refreshed my programming slightly and had a go at Python, which I hadn't used beforehand.
 
