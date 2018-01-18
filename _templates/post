@@ -1,7 +1,7 @@
 ---
 layout: {{ layout }}
 title: {{ title }}
-modified:
+date:
 categories: {{ dir }}
 excerpt:
 tags: []
