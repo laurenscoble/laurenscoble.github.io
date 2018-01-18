@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: Predicting Ames, Iowa house prices
 date: 2017-9-11 17:00:00 +1000
 categories: portfolio

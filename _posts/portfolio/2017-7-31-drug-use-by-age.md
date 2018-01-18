@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: EDA on drug use data
 date: 2017-8-11 17:00:00 +1000
 categories: portfolio
