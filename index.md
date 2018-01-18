@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /
-title: "Portfolio"
+title: "Latest work"
 ---
 
 <div class="tiles">
