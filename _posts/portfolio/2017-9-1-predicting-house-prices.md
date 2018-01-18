@@ -1,11 +1,11 @@
 ---
 layout: post
-title: EDA on drug use data
+title: Predicting Ames, Iowa house prices
 date: 2017-8-11 17:00:00 +1000
 categories: portfolio
 image:
-  teaser: drugs_teaser.jpg
-  feature: drugs_feature.jpg
+  teaser: default_teaser.jpg
+  feature: default_feature.jpg
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean ac magna pulvinar, eleifend sapien in, euismod eros. Proin viverra, sem et sollicitudin molestie, lectus metus malesuada libero, eget sollicitudin felis urna ut nisl. Mauris posuere erat sed mauris elementum congue. Nam ut nisl dictum, bibendum magna pellentesque, tincidunt neque. Vestibulum mollis augue non dignissim auctor. Nullam a blandit felis. Nullam sit amet pharetra mauris, vitae varius nunc. Ut porttitor arcu in pulvinar sodales.
