@@ -5,6 +5,11 @@
   excerpt: "Projects I've worked on"
   image:
 
+- title: Blog
+  url: /blog/
+  excerpt: "Musing, thoughts and general chit-chat"
+  image:
+
 - title: About
   url: /about/
   excerpt: "Read a little more about me"
