@@ -28,11 +28,11 @@ gems:
 owner:
   name: Lauren Scoble
   email: lauren.scoble@gmail.com
-  twitter:
+  twitter: @laurenscoble
   google:
     ad-client:
     ad-slot:
-  bio:
+  bio: A problem solver, story teller and aspiring world changer.
   avatar: bio_jpg.jpg # 160x160 px image for author byline
   disqus-shortname:
 
