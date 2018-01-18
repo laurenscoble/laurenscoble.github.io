@@ -28,7 +28,7 @@ gems:
 owner:
   name: Lauren Scoble
   email: lauren.scoble@gmail.com
-  twitter: 
+  twitter:
   google:
     ad-client:
     ad-slot:
@@ -36,6 +36,8 @@ owner:
   avatar: bio_jpg.jpg # 160x160 px image for author byline
   disqus-shortname:
 
+# Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
+google_analytics: UA-112500363-1
 
 include:
   - .htaccess
