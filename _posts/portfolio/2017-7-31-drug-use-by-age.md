@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Drug use: A data story
+title: Drug use - A data story
 date: 2017-8-11 17:00:00 +1000
 categories: portfolio
 excerpt: My first real Data Science project involved some sweet Exploratory Data Analysis and hypothesis testing.
