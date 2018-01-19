@@ -31,7 +31,7 @@ From 22, the age groups start to be combined, small ranges at first but this inc
 One limitation I called out from the start was that by grouping in such as way, some age groups at different stages of life are grouped together. For example, people between the ages of 35 and 49 are grouped together in this data set. Different stages of life and varying experience could result in different drug habits.
 
 <figure>
-  <img src="images/p2_participants.png">
+  <img src="https://laurenscoble.github.io/images/p2_participants.png">
 </figure>
 
 # EDA and shaping my hypothesis
@@ -39,7 +39,7 @@ During my initial review of this drugs data, I created a correlation matrix usin
 The matrix was huge because there are so many drug categories and that made it difficult to read, so I decided to plot the correlations on a heatmap. I thought this was a nice way to see if there’s anything interesting to be learned from the correlation of each drug.
 
 <figure>
-  <img src="images/p2_corr_map.png">
+  <img src="https://laurenscoble.github.io/images/p2_corr_map.png">
 </figure>
 
 That was the big ‘WOW’ moment for me. To varying degrees, all of the other drugs appear to have positive correlations, but not inhalants.
@@ -61,7 +61,7 @@ Back to the task at hand. I was interested in determine if the negative correlat
 
 But when I ran a test against the correlation to determine if I could reject the Null hypothesis, the only relationship where the negative correlation was statistically significant was between alcohol and inhalants.
 
-| Drug use    | correlation	| p-value |
+| Drug use    | Correlation	| p-value |
 | ------------- |:-------------:| -----:|
 | Alcohol |	-0.612646 |	0.008934 |
 | Cocaine	| -0.156308	| 0.549115 |
@@ -88,7 +88,7 @@ So assuming that this data analysis was supposed to yield actionable results, wh
 Well, given that alcohol users and inhalant users are most likely not going to cross over - is there a case for investing in prevention education and rehabilitation programs for both drug user groups?
 
 <figure>
-  <img src="images/p2_alcohol_vs_inhalant.png">
+  <img src="https://laurenscoble.github.io/images/p2_alcohol_vs_inhalant.png">
 </figure>
 
 Alcohol user numbers far outweigh inhalant user numbers in this study. If there was only money available to support education and rehabilitation programs for one of these drugs, my suggestion is alcohol.
