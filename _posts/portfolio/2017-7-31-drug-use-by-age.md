@@ -46,7 +46,7 @@ That was the big ‘WOW’ moment for me. To varying degrees, all of the other d
 
 And it got me thinking…
 
-__Null hypothesis:__ There is no or a positive relationship between those using inhalants and those that are not.
+__Null hypothesis:__ There is no or a positive relationship between those using inhalants and those that are not.<br />
 __Alternative hypothesis:__ There is a negative relationship between the group that use inhalants and those that are not.
 
 # Some additional research
@@ -94,4 +94,4 @@ Well, given that alcohol users and inhalant users are most likely not going to c
 Alcohol user numbers far outweigh inhalant user numbers in this study. If there was only money available to support education and rehabilitation programs for one of these drugs, my suggestion is alcohol.
 
 ## Sign off
-Thanks for reading this far. I hope you enjoyed my analysis of the _Center for Behavioral Health Statistics and Quality's 'Drug use by Age'_ data set. You can see my full analysis notebook on [GitHub here](https://github.com/laurenscoble/GA-DSi-projects/blob/master/GA-DSI-Project2.ipynb).
+Thanks for reading this far. I hope you enjoyed my analysis of the _Center for Behavioral Health Statistics and Quality's 'Drug use by Age'_ data set.
